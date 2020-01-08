@@ -1,6 +1,6 @@
 const stream = require('stream')
 
-class StreamBuffer extends stream.Writable {
+module.exports = class StreamBuffer extends stream.Writable {
   constructor () {
     super()
     this._buffer = ''
