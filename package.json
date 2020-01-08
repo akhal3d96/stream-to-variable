@@ -1,0 +1,15 @@
+{
+  "name": "stream-buffer",
+  "version": "1.0.0",
+  "description": "Many libraries pass their output to a stream such as (process.stdout or a file stream). Sometimes you don't have any streams to be pass the output to and just want to have the output stream stored in variable. This is the solution.",
+  "main": "stream_buffer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Khaled <nemoload@aol.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nemoload/stream-buffer.git"
+  }
+}
