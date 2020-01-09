@@ -1,6 +1,6 @@
 {
   "name": "stream-to-variable",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Many libraries pass their output to a stream such as (process.stdout or a file stream). Sometimes you don't have any streams to be pass the output to and just want to have the output stream stored in variable. This is the solution.",
   "main": "stream_buffer.js",
   "scripts": {
